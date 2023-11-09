@@ -1,0 +1,10 @@
+.tipografia  {
+    font-family:"''Lucida Console'', Courier, monospace";
+    color: red;
+}
+
+.parágrafo  {
+    font-family:"''Lucida Console''";
+    font-style: italic;
+    color: blue;
+}
