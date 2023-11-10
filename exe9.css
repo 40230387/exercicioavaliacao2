@@ -1,0 +1,11 @@
+.margem {
+    margin: 100px;
+    padding: 50px;
+}
+
+.borda {
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: aqua;
+    border-style: solid;
+}
